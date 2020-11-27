@@ -1,4 +1,4 @@
-# CC
+# Powergrid_lua
 CC is a framework what connects and manages various periperals and allows
 one to freely manipulate and allow two periperals to communicate with
 each other that would otherwise be incompatible.
